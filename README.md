@@ -1,1 +1,2 @@
-This is a test repo for jj
+This is a sample test repo for jj editing the first line
+This is other line
